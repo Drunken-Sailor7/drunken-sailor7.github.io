@@ -5,7 +5,8 @@ I'm a British Github user, that mainly works on Scratch 3.0 resources with the o
 
 ## Socials 
 - [Github Profile](https://github.com/Drunken-Sailor7)
-- [Scratch Profile](https://scratch.mit.edu/users/Drunken_Sailor/)
+- [Scratch Profile](https://scratch.mit.edu/users/Drunken_Sailor)
+- [Scratch Wiki Profile](https://wiki.scratch.mit.edu/wiki/User:Drunken_Sailor)
 
 ## Who do I work with?
 I work with everyone [here](https://github.com/Drunken-Sailor7?tab=following).
