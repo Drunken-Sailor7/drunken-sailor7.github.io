@@ -1,4 +1,4 @@
-![drunken-sailor7.github.io](logo.png)
+![drunken-sailor7.github.io](drunken-sailor-logo.png)
 
 ## Hey!
 I'm a British Github user, that mainly works on Scratch 3.0 resources with the other LLK contributors!
