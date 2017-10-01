@@ -21,5 +21,5 @@ This site is temporary and has been made using markdown, a better version will c
 - Scratch 3.0 repo's
 
 
-ᴮʸᵉ
+
 ᴰʳᵘᶰᵏᵉᶰ ˢᵃᶦᶫᵒʳ 
