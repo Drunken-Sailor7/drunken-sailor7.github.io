@@ -11,5 +11,13 @@ I'm a British Github user, that mainly works on Scratch 3.0 resources with the o
 ## Who do I work with?
 I work with everyone [here](https://github.com/Drunken-Sailor7?tab=following).
 
+## Things I'm working on
+- Scratch Projects
+- This site
+- Scratch-wwww
+- Scratch 3.0 repo's
+
 ## About this site
 This site is temporary and has been made using markdown, a better version will come soon!
+
+ᴰʳᵘᶰᵏᵉᶰ ˢᵃᶦᶫᵒʳ
